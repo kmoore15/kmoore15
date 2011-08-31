@@ -1,0 +1,27 @@
+VARIABLE
+
+var myName = Kendall;
+
+IF STATEMENT
+
+var number = 15;
+	if (number != 15){
+	print ("you are such a dummy!");
+}
+
+WHILE STATEMENT
+
+var currentNumber = 200;
+while (currentNumber <= 200) {
+print ( currentNumber);
+currentNumber = currentNumber + 4;
+}
+
+FUNCTION
+
+var myName = "kendall";
+if ("myname != kendall"){
+  print("you liar!");
+}
+show("griffin")
+  
